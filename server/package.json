@@ -1,0 +1,12 @@
+{
+  "name": "portfolio-server",
+  "version": "1.0.0",
+  "description": "ウェブデザイン 第5回 作品データを返す API サーバ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
